@@ -11,7 +11,7 @@ Also here are the RAW-files for editability.
 This repo uses [Git Large File Storage](https://git-lfs.github.com/)
 
 ## Images
-![Abstract lightbulb](_MG_8348.jpg)
+![Abstract lightbulb](_MG_8348_small.jpg)
 
-## Licence
+## License
 [Public Domain Dedication - CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
