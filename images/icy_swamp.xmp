@@ -1,0 +1,23 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.5.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 550D"
+   tiff:MetadataDate="2016-03-08T18:34:02">
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>ice</rdf:li>
+     <rdf:li>swamp</rdf:li>
+     <rdf:li>frost</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Icy swamp at Omberg, Sweden</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
