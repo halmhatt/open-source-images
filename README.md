@@ -23,10 +23,9 @@ The RAW-files are also added to make it easier to edit and make modifications.
 This repo uses [Git Large File Storage](https://git-lfs.github.com/) which makes it possible to use large files in GIT. Below are links to the files but if you clone this repo, you will need to have GIT LFS installed or use [Github Desktop client](https://desktop.github.com/).
 
 ## Images
-![Abstract light bulb](light_bulb_small.jpg)
+![Abstract light bulb](images/light_bulb_small.jpg)
 
-* [JPG](light_bulb.jpg)
-* [RAW](light_bulb.CR2)
+[JPG](images/light_bulb.jpg)[RAW](images/light_bulb.CR2)
 
 ## License
 [Public Domain Dedication - CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
