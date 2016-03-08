@@ -25,7 +25,7 @@ This repo uses [Git Large File Storage](https://git-lfs.github.com/) which makes
 ## Images
 ![Abstract light bulb](images/light_bulb_small.jpg)
 
-[JPG](images/light_bulb.jpg)[RAW](images/light_bulb.CR2)
+[JPG](images/light_bulb.jpg) [RAW](images/light_bulb.CR2)
 
 ## License
 [Public Domain Dedication - CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
