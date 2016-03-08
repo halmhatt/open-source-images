@@ -13,5 +13,8 @@ This repo uses [Git Large File Storage](https://git-lfs.github.com/)
 ## Images
 ![Abstract lightbulb](_MG_8348_small.jpg)
 
+* [JPG](_MG_8348.jpg)
+* [RAW](_MG_8348.CR2)
+
 ## License
 [Public Domain Dedication - CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
